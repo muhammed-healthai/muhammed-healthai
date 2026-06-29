@@ -9,14 +9,14 @@
 
 | Project | Description |
 |----------|--------------|
-| <div align="center">🫁 [**CXR Pneumonia Detection**](https://github.com/M-Omarjee/chest-xray-pneumonia-ai) </div>| CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
-| <div align="center">💬 [**Primary Care Triage AI**](https://github.com/M-Omarjee/triage-primary-care) </div>| NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
-| <div align="center">⚙️ [**Sepsis Early Detection AI**](https://github.com/M-Omarjee/sepsis-ai) </div>| Using NEWS2 values to create a ML model built in Python using Logistic Regression |
-| <div align="center">📝 [**Patient Data Centre**](https://github.com/M-Omarjee/patient-data-centre) </div>| A lightweight, frontend-only ward round documentation SPA featuring interactive anatomical diagrams for clinical annotations and auto-generated patient summaries. |
+| <div align="center">🫁 [**CXR Pneumonia Detection**](https://github.com/muhammed-healthai/chest-xray-pneumonia-ai) </div>| CNN-based computer vision model that detects pneumonia and provides visual explainability via Grad-CAM. |
+| <div align="center">💬 [**Primary Care Triage AI**](https://github.com/muhammed-healthai/triage-primary-care) </div>| NLP model classifying primary care symptom text into **Emergency · Urgent · Routine · Self-care**. |
+| <div align="center">⚙️ [**Sepsis Early Detection AI**](https://github.com/muhammed-healthai/sepsis-ai) </div>| Using NEWS2 values to create a ML model built in Python using Logistic Regression |
+| <div align="center">📝 [**Patient Data Centre**](https://github.com/muhammed-healthai/patient-data-centre) </div>| A lightweight, frontend-only ward round documentation SPA featuring interactive anatomical diagrams for clinical annotations and auto-generated patient summaries. |
 | <div align="center">💊 [**De Novo Drug Design**](https://www.github.com/M-Omarjee/de-novo-drug-design) </div>| Generative RNN trained to invent over 600 novel, chemically valid drug candidates. |
-| <div align="center">📊 [**ProjectPulse Dashboard**](https://www.github.com/M-Omarjee/projectpulse-dashboard) </div>| FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
-| <div align="center">🔍 [**AuditAI**](https://www.github.com/M-Omarjee/audit-ai) </div>| a Streamlit-powered app that automates clinical audit analysis and generates polished, NHS-style compliance reports in seconds. |
-| <div align="center">🚨 [**ED Tracker**](https://www.github.com/M-Omarjee/ed-tracker) </div>| A fast, intuitive Emergency Department workflow tool that brings real-time patient tracking, documentation, and clinical oversight into one clean, modern dashboard. |
+| <div align="center">📊 [**ProjectPulse Dashboard**](https://www.github.com/muhammed-healthai/projectpulse-dashboard) </div>| FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
+| <div align="center">🔍 [**AuditAI**](https://www.github.com/muhammed-healthai/audit-ai) </div>| a Streamlit-powered app that automates clinical audit analysis and generates polished, NHS-style compliance reports in seconds. |
+| <div align="center">🚨 [**ED Tracker**](https://www.github.com/muhammed-healthai/ed-tracker) </div>| A fast, intuitive Emergency Department workflow tool that brings real-time patient tracking, documentation, and clinical oversight into one clean, modern dashboard. |
 
 ---
 
