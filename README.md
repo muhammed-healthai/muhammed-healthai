@@ -57,8 +57,8 @@
 ---
 ## 🧩 GitHub Snapshot
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Omarjee&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Omarjee&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammed-healthai&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammed-healthai&theme=github_dark)
 ---
 
 ## ⚠️ Disclaimer
