@@ -17,6 +17,7 @@
 | <div align="center">📊 [**ProjectPulse Dashboard**](https://www.github.com/muhammed-healthai/projectpulse-dashboard) </div>| FastAPI + Streamlit analytics platform that visualises real-time project KPIs, risks, and financial performance to power data-driven decision-making. |
 | <div align="center">🔍 [**AuditAI**](https://www.github.com/muhammed-healthai/audit-ai) </div>| a Streamlit-powered app that automates clinical audit analysis and generates polished, NHS-style compliance reports in seconds. |
 | <div align="center">🚨 [**ED Tracker**](https://www.github.com/muhammed-healthai/ed-tracker) </div>| A live Emergency Department board with NEWS2 scoring, structured bloods, and AI-assisted clerking and discharge summaries. Admitting a patient publishes their full ED record into the shared Patient Data Centre — a real ADT-style ward transfer. |
+| <div align="center">🫀 [**ECG-Explain**](https://www.github.com/muhammed-healthai/ecg-explain) </div>| A 12-lead ECG classifier that doesn't just predict — it shows you which leads and which segments drove the diagnosis, using per-lead Grad-CAM. Trained on PTB-XL, AUROC 0.91. |
 
 ---
 
